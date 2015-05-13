@@ -1,2 +1,2 @@
 # chipy_talk
-talk for chicpy
+talk for chipy
