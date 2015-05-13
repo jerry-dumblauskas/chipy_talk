@@ -10,4 +10,3 @@ fit <- lm(Graduation.rate ~ ACT , data=xxx)
 
 plot(xxx$ACT, xxx$Graduation.rate)
 abline(fit)
-
