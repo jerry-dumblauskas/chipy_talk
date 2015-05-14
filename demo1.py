@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import requests
 
-# 1 -- GET THE FILE AND SAVE IT
+# 1 -- GET THE FILE AND SAVE IT (1993 College information)
 # r = requests.get("http://mathforum.org/workshops/sum96/data.collections/datalibrary/colleges.XL.zip.xls")
 # with open("/Users/jerrydumblauskas/Downloads/tst_python.xls", 'wb') as fd:
 #     fd.write(r.content)

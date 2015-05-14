@@ -1,7 +1,7 @@
 #install.packages('gdata')
 require (gdata)
 
-# 1 -- GET THE FILE AND SAVE IT
+# 1 -- GET THE FILE AND SAVE IT (1993 College information)
 #con<-download.file("http://mathforum.org/workshops/sum96/data.collections/datalibrary/colleges.XL.zip.xls", "~/Downloads/tst.xls",method="curl")
 
 # 2 -- READ THE EXCEL FILE AND CREATE A DATAFRAME
